@@ -23,8 +23,7 @@ Besides coding, I love **graphics designing** and have expertise in:
 
 <p align="center"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/CorelDRAW-00A88F?style=for-the-badge&logo=CorelDRAW&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> </p>
 🖌 Design Expertise
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgurujeet&layout=compact&langs_count=3&theme=radical&custom_title=Graphics%20Design%20Skills&hide_border=true&card_width=450&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&bar_color=31A8FF&border_radius=10"> </p>
-
+<p align="center"> <img src="https://progress-bar.dev/100/?title=Photoshop&color=31A8FF"> <br> <img src="https://progress-bar.dev/80/?title=CorelDRAW&color=00A88F"> <br> <img src="https://progress-bar.dev/60/?title=Figma&color=F24E1E"> </p>
 ## 📊 GitHub Stats  
 
 <p align="center">
