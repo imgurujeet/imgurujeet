@@ -23,7 +23,17 @@ Besides coding, I love **graphics designing** and have expertise in:
 
 <p align="center"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/CorelDRAW-00A88F?style=for-the-badge&logo=CorelDRAW&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> </p>
 🖌 Design Expertise
-<p align="center"> <img src="https://progress-bar.dev/100/?title=Photoshop&color=31A8FF"> <br> <img src="https://progress-bar.dev/80/?title=CorelDRAW&color=00A88F"> <br> <img src="https://progress-bar.dev/60/?title=Figma&color=F24E1E"> </p>
+<p align="center">
+Photoshop
+<svg width="300" height="20"> <rect width="270" height="20" fill="#31A8FF" rx="5" ry="5"></rect> <rect width="30" height="20" fill="#D3D3D3" rx="5" ry="5"></rect> </svg>
+
+CorelDRAW
+<svg width="300" height="20"> <rect width="225" height="20" fill="#00A88F" rx="5" ry="5"></rect> <rect width="75" height="20" fill="#D3D3D3" rx="5" ry="5"></rect> </svg>
+
+Figma
+<svg width="300" height="20"> <rect width="180" height="20" fill="#F24E1E" rx="5" ry="5"></rect> <rect width="120" height="20" fill="#D3D3D3" rx="5" ry="5"></rect> </svg>
+
+</p>
 ## 📊 GitHub Stats  
 
 <p align="center">
