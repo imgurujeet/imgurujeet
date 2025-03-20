@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imgurujeet&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=imgurujeet&show_icons=true&theme=radical&count_private=true&hide_rank=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=imgurujeet&show_icons=true&theme=radical&count_private=true&hide_rank=true">
 </p>
 
 
