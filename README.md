@@ -20,8 +20,9 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imgurujeet&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=My GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imgurujeet&theme=tokyonight">
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imgurujeet&theme=radical">
