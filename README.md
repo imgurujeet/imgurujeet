@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gurujeet Kumar! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff6600&center=true&vCenter=true&width=450&lines=Building+Chiktsak+AI;Anonymous+Social+Media+App;C%2B%2B+%7C+JavaScript+%7C+React;Always+learning+new+things!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff6600&center=true&vCenter=true&width=450&lines=Building+Chiktsak+AI;Anonymous+Social+Media+App;C/C%2B%2B+%7C+JavaScript+%7C+React;Always+learning+new+things!">
 </p>
 
 ## 🚀 About Me
@@ -11,7 +11,7 @@
 - 🎯 Interested in **Open Source & Competitive Coding**  
 
 ## 🛠 Tech Stack  
-![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
