@@ -23,9 +23,7 @@ Besides coding, I love **graphics designing** and have expertise in:
 
 <p align="center"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/CorelDRAW-00A88F?style=for-the-badge&logo=CorelDRAW&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> </p>
 🖌 Design Expertise
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imgurujeet&hide_title=true&hide_rank=true&show_icons=false&theme=radical&custom_title=Graphics%20Skills&hide_border=true&line_height=24&count_private=true&card_width=300&bg_color=0D1117&border_radius=8&text_color=FFFFFF&icon_color=FFCC00"> </p>
-I specialize in UI/UX design, logo creation, and creative branding, blending my technical and artistic skills for unique and polished digital experiences! 🚀🎨
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgurujeet&layout=compact&langs_count=3&theme=radical&custom_title=Graphics%20Design%20Skills&hide_border=true&card_width=450&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&bar_color=31A8FF&border_radius=10"> </p>
 
 ## 📊 GitHub Stats  
 
