@@ -22,6 +22,8 @@
 Besides coding, I love **graphics designing** and have expertise in:  
 
 <p align="center"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/CorelDRAW-00A88F?style=for-the-badge&logo=CorelDRAW&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> </p>
+
+
 ## 📊 GitHub Stats  
 
 <p align="center">
