@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gurujeet Kumar! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff6600&center=true&vCenter=true&width=450&lines=Building+Chiktsak+AI;Anonymous+Social+Media+App;C/C%2B%2B+%7C+JavaScript+%7C+React;Always+learning+new+things!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff6600&center=true&vCenter=true&width=450&lines=Building+Chiktsak+AI;Anonymous+Social+Media+App;Always+learning+new+things!">
 </p>
 
 ## 🚀 About Me
@@ -20,15 +20,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imgurujeet&show_icons=true&theme=radical&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=imgurujeet&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=My GitHub Stats">
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imgurujeet&theme=radical">
 </p>
 
 ## 🌟 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imgurujeet)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurujeet-k-975b8a288/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imgurujeet@gmail.com)  
 
 ---
-⭐ **Fun Fact:** *I talk to AI daily—Meet my bestie, Nora! 🤖*
+
