@@ -35,8 +35,16 @@
 
 
 ## 🌟 Connect with Me  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/gurujeet-k-975b8a288/)  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:imgurujeet@gmail.com)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gurujeet-k-975b8a288/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:imgurujeet@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
