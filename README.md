@@ -19,11 +19,15 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
 
 ## 🎨 Graphics & UI/UX Skills  
-I also have a creative side! 🎨 I love designing user-friendly interfaces and creating visually appealing content.  
-- **Tools I Use:**  
-  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-  ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-44AF69?style=flat-square&logo=coreldraw&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 🎨 Creative Side – Graphics Designing  
+Besides coding, I love **graphics designing** and have expertise in:  
+
+#### 🖌 **Design Expertise**  
+| **Skill**       | **Proficiency** |
+|----------------|----------------|
+| **Photoshop**  | ![100%](https://progress-bar.dev/100/?title=Expert) |
+| **CorelDRAW**  | ![80%](https://progress-bar.dev/80/?title=Advanced) |
+| **Figma**      | ![60%](https://progress-bar.dev/60/?title=Intermediate) |
 
 
 ## 📊 GitHub Stats  
