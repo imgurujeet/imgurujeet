@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gurujeet Kumar! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff6600&center=true&vCenter=true&width=450&lines=Building+Chiktsak+AI;Anonymous+Social+Media+App;Always+learning+new+things!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff6600&center=true&vCenter=true&width=450&lines=Anonymous+Social+Media+App;Always+learning+new+things!">
 </p>
 
 ## 🚀 About Me
