@@ -1,10 +1,9 @@
-<h1 align="center">Hi there, I'm Gurujeet Kumar! 👋</h1>
+<h1 align="center">Hi there, I'm Gurujeet! 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff6600&center=true&vCenter=true&width=450&lines=Anonymous+Social+Media+App;Always+learning+new+things!">
 </p>
 
 ## 🚀 About Me
-- 🤖 Currently working on **Chiktsak AI**  
 - 🔥 Building an **Anonymous Social Media App**  
 - 💻 Passionate about **AI, Web & Mobile Development**  
 - 📚 Learning **Full-Stack Development, DSA & Kotlin**  
